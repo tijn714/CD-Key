@@ -1,0 +1,15 @@
+{
+  "name": "cdkey",
+  "version": "1.0.0",
+  "description": "A CD-Key generator made in Node.js",
+  "main": "main.js",
+  "scripts": {
+    "test": "node main.js",
+    "start": "node main.js"
+  },
+  "author": "Tijn Rodrigo",
+  "license": "ISC",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
