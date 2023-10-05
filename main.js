@@ -61,7 +61,7 @@ function generateKey() {
     return key;
 }
 
-var numKeysToGenerate = 10;
+var numKeysToGenerate = 10; // Modify this to change the number of keys to generate, 10 is the default
 for (var i = 0; i < numKeysToGenerate; i++) {
     generateKey();
 }
